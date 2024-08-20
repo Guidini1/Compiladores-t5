@@ -1,5 +1,6 @@
 package br.ufscar.dc.compiladores.compiladorT5;
-
+// Giovani Guidini RA:790862
+// Bruno Zenatti de Caires Marcelo RA: 769821
 import java.util.*;
 
 public class Escopos {
