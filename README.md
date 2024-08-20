@@ -1,4 +1,4 @@
-# T4 Compiladores
+# T5 Compiladores
 
 O trabalho 5 (T5) da disciplina consiste em implementar um gerador de código para a linguagem LA (Linguagem Algorítmica) desenvolvida pelo prof. Jander, no âmbito do DC/UFSCar. O gerador de código deverá produzir código executável em C equivalente ao programa de entrada.
 
